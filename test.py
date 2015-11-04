@@ -2,7 +2,8 @@
 
 import os 
 import sys
-import urllib3
+<<<<<<< HEAD
+import urllib2
 
 
 dir=os.getcwd()
